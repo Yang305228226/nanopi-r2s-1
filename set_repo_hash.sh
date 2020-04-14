@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 name=$1
 if [ "$#" -gt 1 ]; then
     repo=$2
