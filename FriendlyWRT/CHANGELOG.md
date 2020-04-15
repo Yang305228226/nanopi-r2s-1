@@ -1,3 +1,24 @@
+## FriendlyWRT-2020-04-15-8c9403b
+
+#### Builder [b00e4d5..8c9403b](https://github.com/huang-hw/nanopi-r2s-1/compare/b00e4d5..8c9403b)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [8c9403b](https://github.com/huang-hw/nanopi-r2s-1/commit/8c9403b) | huang-hw | Update add_packages_to_lean.sh |
+| [a37fad1](https://github.com/huang-hw/nanopi-r2s-1/commit/a37fad1) | huang-hw | fix elfutlis |
+| [ef2e1d4](https://github.com/huang-hw/nanopi-r2s-1/commit/ef2e1d4) | huang-hw | Update README.md |
+
+
+#### OpenAppFilter [5646666](/commit/5646666)
+
+
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-15-b00e4d5
 
 #### Builder [f8b0fae..b00e4d5](https://github.com/huang-hw/nanopi-r2s-1/compare/f8b0fae..b00e4d5)
