@@ -4,16 +4,17 @@
 
 | 荐 | 固件名字 | 状态 | 改动记录 | 简介 |
 | :--- | :------ | :--- | :----- | :--- |
-| * | FriendlyWRT | [![friendlywrt](https://github.com/songchenwen/nanopi-r2s/workflows/friendlywrt/badge.svg)](https://github.com/songchenwen/nanopi-r2s/actions?query=workflow%3Afriendlywrt) | [改动记录](FriendlyWRT/CHANGELOG.md) | 以 FriendlyWRT 为基础, 添加 Lean 的包 |
-|   | FwF | [![FwF](https://github.com/songchenwen/nanopi-r2s/workflows/FwF/badge.svg)](https://github.com/songchenwen/nanopi-r2s/actions?query=workflow%3AFwF) | [改动记录](FwF/CHANGELOG.md) | FriendlyWRT with Features, 比上面的固件含有更多包 |
-|   | Lean | [![lean](https://github.com/songchenwen/nanopi-r2s/workflows/lean/badge.svg)](https://github.com/songchenwen/nanopi-r2s/actions?query=workflow%3Alean) | [改动记录](Lean/CHANGELOG.md) | 以 Lean 为基础, 增加 FriendlyWRT 对 OpenWRT 的改动 | 
-|   | LOL | [![LOL](https://github.com/songchenwen/nanopi-r2s/workflows/LOL/badge.svg)](https://github.com/songchenwen/nanopi-r2s/actions?query=workflow%3ALOL) | [改动记录](LOL/CHANGELOG.md) | 以[Lienol on Lean](https://github.com/Lienol/openwrt/tree/dev-lean-lede)为基础, 增加 FriendlyWRT 对 OpenWRT 的改动 |
+| * | FriendlyWRT | [![friendlywrt](https://github.com/songchenwen/nanopi-r2s/workflows/friendlywrt/badge.svg)](https://github.com/huang-hw/nanopi-r2s-1/actions?query=workflow%3Afriendlywrt) | [改动记录](FriendlyWRT/CHANGELOG.md) | 以 FriendlyWRT 为基础, 添加 Lean 的包 |
+|   | FwF | [![FwF](https://github.com/huang-hw/nanopi-r2s-1/workflows/FwF/badge.svg)](https://github.com/songchenwen/nanopi-r2s/actions?query=workflow%3AFwF) | [改动记录](FwF/CHANGELOG.md) | FriendlyWRT with Features, 比上面的固件含有更多包 |
+|   | Lean | [![lean](https://github.com/huang-hw/nanopi-r2s-1/workflows/lean/badge.svg)](https://github.com/songchenwen/nanopi-r2s/actions?query=workflow%3Alean) | [改动记录](Lean/CHANGELOG.md) | 以 Lean 为基础, 增加 FriendlyWRT 对 OpenWRT 的改动 | 
+|   | LOL | [![LOL](https://github.com/huang-hw/nanopi-r2s-1/workflows/LOL/badge.svg)](https://github.com/songchenwen/nanopi-r2s/actions?query=workflow%3ALOL) | [改动记录](LOL/CHANGELOG.md) | 以[Lienol on Lean](https://github.com/Lienol/openwrt/tree/dev-lean-lede)为基础, 增加 FriendlyWRT 对 OpenWRT 的改动 |
 
 默认 LAN 口 IP `192.168.2.1` 默认密码 `password`
 
 无需拔 SD 卡的升级方法, 4月11日以后的固件，ssh 进路由器, 并执行 `fw_update` 后面跟上新 ROM 的 zip 文件下载 URL, 比如 `fw_update "https://github.com/songchenwen/nanopi-r2s/releases/download/FriendlyWRT-2020-04-11-bf4fc77/FriendlyWRT-2020-04-11-bf4fc77-ROM.zip"`。这种刷机方式会保留配置文件, 如果新旧 ROM 的配置文件不兼容会引发各种问题，请自行判断配置文件的兼容性。
 
 Fork 自 [klever1988](https://github.com/klever1988/nanopi-openwrt) 和 [soffchen](https://github.com/soffchen/NanoPi-R2S)
+Fork 自 [songchenwen](https://github.com/songchenwen/nanopi-r2s)  主要用于学习Action CI基本操作
 
 主要整合了 [Passwall](https://github.com/songchenwen/openwrt-package) 和 AdguardHome
 
