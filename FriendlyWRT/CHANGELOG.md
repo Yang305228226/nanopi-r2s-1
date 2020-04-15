@@ -1,3 +1,18 @@
+## FriendlyWRT-2020-04-15-20e5f6f
+
+#### Builder [8c9403b..20e5f6f](https://github.com/huang-hw/nanopi-r2s-1/compare/8c9403b..20e5f6f)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [20e5f6f](https://github.com/huang-hw/nanopi-r2s-1/commit/20e5f6f) | huang-hw | Add OAF CONFIG_XXX_XXX |
+| [22d0818](https://github.com/huang-hw/nanopi-r2s-1/commit/22d0818) | huang-hw | Add OAF CONFIG_XXX_XXX |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-15-8c9403b
 
 #### Builder [b00e4d5..8c9403b](https://github.com/huang-hw/nanopi-r2s-1/compare/b00e4d5..8c9403b)
