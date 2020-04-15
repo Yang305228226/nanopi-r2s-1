@@ -1,3 +1,14 @@
+## LOL-2020-04-15-8c9403b
+
+#### OpenAppFilter [5646666](/commit/5646666)
+
+
+
+
+
+
+--------------
+
 ## LOL-2020-04-13-f8b0fae
 
 #### Builder [cf7d037..f8b0fae](https://github.com/songchenwen/nanopi-r2s/compare/cf7d037..f8b0fae)
