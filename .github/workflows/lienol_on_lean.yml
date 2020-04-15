@@ -1,5 +1,4 @@
 name: LOL
-
 on:
   repository_dispatch:
   push:
@@ -10,7 +9,7 @@ on:
       - 'LOL/*.sh'
       - '*.sh'
   schedule:
-    - cron: '0 4 * * 1'
+    - cron: '0 22 * * *'
 
 jobs:
   build:
