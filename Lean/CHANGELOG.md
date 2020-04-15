@@ -1,3 +1,50 @@
+## Lean-2020-04-15-8c9403b
+
+#### Builder [f8b0fae..8c9403b](https://github.com/huang-hw/nanopi-r2s-1/compare/f8b0fae..8c9403b)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [8c9403b](https://github.com/huang-hw/nanopi-r2s-1/commit/8c9403b) | huang-hw | Update add_packages_to_lean.sh |
+| [a37fad1](https://github.com/huang-hw/nanopi-r2s-1/commit/a37fad1) | huang-hw | fix elfutlis |
+| [ef2e1d4](https://github.com/huang-hw/nanopi-r2s-1/commit/ef2e1d4) | huang-hw | Update README.md |
+| [b00e4d5](https://github.com/huang-hw/nanopi-r2s-1/commit/b00e4d5) | huang-hw | fix elfutils |
+| [bb19bae](https://github.com/huang-hw/nanopi-r2s-1/commit/bb19bae) | huang-hw | Update lienol_on_lean.yml |
+| [06adce8](https://github.com/huang-hw/nanopi-r2s-1/commit/06adce8) | huang-hw | Update lean.yml |
+| [4d0151a](https://github.com/huang-hw/nanopi-r2s-1/commit/4d0151a) | huang-hw | Update friendlywrt_with_features.yml |
+| [0a8dba0](https://github.com/huang-hw/nanopi-r2s-1/commit/0a8dba0) | huang-hw | Update friendlywrt.yml |
+| [57c838f](https://github.com/huang-hw/nanopi-r2s-1/commit/57c838f) | huang-hw | Update name_and_urls.env |
+| [55e4997](https://github.com/huang-hw/nanopi-r2s-1/commit/55e4997) | huang-hw | Update lienol_on_lean.yml |
+| [caec214](https://github.com/huang-hw/nanopi-r2s-1/commit/caec214) | huang-hw | Update status.env |
+| [038047c](https://github.com/huang-hw/nanopi-r2s-1/commit/038047c) | huang-hw | Update rebase_on_lienol.sh |
+| [d4e884a](https://github.com/huang-hw/nanopi-r2s-1/commit/d4e884a) | huang-hw | Update set_repo_hash.sh |
+| [175bc26](https://github.com/huang-hw/nanopi-r2s-1/commit/175bc26) | huang-hw | Update status.env |
+| [9aa6b73](https://github.com/huang-hw/nanopi-r2s-1/commit/9aa6b73) | huang-hw | Update status.env |
+| [9bd25c3](https://github.com/huang-hw/nanopi-r2s-1/commit/9bd25c3) | huang-hw | Update status.env |
+| [0de5e34](https://github.com/huang-hw/nanopi-r2s-1/commit/0de5e34) | huang-hw | Update rebase_on_lean.sh |
+| [4a32bd1](https://github.com/huang-hw/nanopi-r2s-1/commit/4a32bd1) | huang-hw | Update set_repo_hash.sh |
+| [7fef155](https://github.com/huang-hw/nanopi-r2s-1/commit/7fef155) | huang-hw | Update set_repo_hash.sh |
+
+
+#### OpenAppFilter [5646666](/commit/5646666)
+
+
+
+
+#### FriendlyWRT [c2699cd..6025df0](https://github.com/friendlyarm/friendlywrt/compare/c2699cd..6025df0)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [6025df0352](https://github.com/friendlyarm/friendlywrt/commit/6025df0352) | Lawrence-Tang | initial settings for ttyd, samba, watchcat |
+| [6ba702543b](https://github.com/friendlyarm/friendlywrt/commit/6ba702543b) | Lawrence-Tang | rk3328: add support for rtl8822bu |
+| [5ebce5620b](https://github.com/friendlyarm/friendlywrt/commit/5ebce5620b) | Lawrence-Tang | add p7zip |
+
+
+
+
+--------------
+
 ## Lean-2020-04-13-f8b0fae
 
 #### Builder [cf7d037..f8b0fae](https://github.com/songchenwen/nanopi-r2s/compare/cf7d037..f8b0fae)
