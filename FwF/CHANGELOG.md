@@ -1,3 +1,34 @@
+## FwF-2020-04-15-22d0818
+
+#### Builder [a37fad1..22d0818](https://github.com/huang-hw/nanopi-r2s-1/compare/a37fad1..22d0818)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [20e5f6f](https://github.com/huang-hw/nanopi-r2s-1/commit/20e5f6f) | huang-hw | Add OAF CONFIG_XXX_XXX |
+| [22d0818](https://github.com/huang-hw/nanopi-r2s-1/commit/22d0818) | huang-hw | Add OAF CONFIG_XXX_XXX |
+| [8c9403b](https://github.com/huang-hw/nanopi-r2s-1/commit/8c9403b) | huang-hw | Update add_packages_to_lean.sh |
+
+
+#### OpenAppFilter [5646666](/commit/5646666)
+
+
+
+
+#### Lean [8a02b49..6c8c96c](https://github.com/coolsnowwolf/lede/compare/8a02b49..6c8c96c)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [7262d950](https://github.com/coolsnowwolf/lede/commit/7262d950) | lean | luci-app-ssr-plus:hide ssr server option when shadowsocks-libev-ss-server is not installed |
+| [2284f0da](https://github.com/coolsnowwolf/lede/commit/2284f0da) | HQ Ong | Add ACL rule to compatible with trunk Luci requirement (#4323) |
+| [2125e805](https://github.com/coolsnowwolf/lede/commit/2125e805) | lean | luci-app-ssr-plus: revert lock feature |
+
+
+
+
+--------------
+
 ## FwF-2020-04-15-a37fad1
 
 #### Builder [f8b0fae..a37fad1](https://github.com/huang-hw/nanopi-r2s-1/compare/f8b0fae..a37fad1)
