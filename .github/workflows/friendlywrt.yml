@@ -1,17 +1,15 @@
 name: friendlywrt
-
-
 on:
   repository_dispatch:
   push:
     branches: 
       - master
     paths:
-      #- '.github/workflows/friendlywrt.yml'
+      - '.github/workflows/friendlywrt.yml'
       - 'minimal_config.seed'
-      #- '*.sh'
-      #schedule:
-      #- cron: '0 16 * * *'
+      - '*.sh'
+  schedule:
+    - cron: '0 16 * * *'
 
 jobs:
   build:
