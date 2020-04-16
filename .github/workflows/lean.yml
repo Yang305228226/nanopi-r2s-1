@@ -8,8 +8,9 @@ on:
     paths:
       #- '.github/workflows/lean.yml'
       #- '*.sh'
-  schedule:
-    - cron: '0 21 * * *'
+      -'Lean/*.sh'
+      #schedule:
+      #- cron: '0 21 * * *'
 
 jobs:
   build:

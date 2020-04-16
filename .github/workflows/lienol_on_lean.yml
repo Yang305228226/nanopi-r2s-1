@@ -8,8 +8,8 @@ on:
       #- '.github/workflows/lienol_on_lean.yml'
       - 'LOL/*.sh'
       #- '*.sh'
-  schedule:
-      - cron: '30 23 * * *'
+      #schedule:
+      #- cron: '30 23 * * *'
 
 jobs:
   build:
