@@ -23,18 +23,21 @@ git clone https://github.com/destan19/OpenAppFilter.git
 cd OpenAppFilter
 ../../../../set_repo_hash.sh OpenAppFilter
 pwd
-cd ../../..
-pwd
-ls -l 
-cd kernel/net/
+cd ../../../kernel/net/
 pwd
 mkdir oaf
+ls -l
 cd ../../friendlywrt/package/OpenAppFilter/
+pwd
 cp oaf/src/ ../../../kernel/net/oaf/ -af
 rm oaf/ -rf
-sed -i 's/^obj-m/obj-y/' ../../../kernel/net/oaf/Makefile
-cat ../../../kernel/net/oaf/Makefile
-cd ../..
+ls -l
+cd ../../../kernel/net/oaf
+pwd
+ls -l
+sed -i 's/^obj-m/obj-y/' Makefile
+cat Makefile
+cd ../../../friendlywrt
 
 pwd
 echo "src-git scw https://github.com/songchenwen/openwrt-package" >> feeds.conf.default
