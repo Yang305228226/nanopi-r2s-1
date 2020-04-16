@@ -29,7 +29,7 @@ mkdir oaf
 ls -l
 cd ../../friendlywrt/package/OpenAppFilter/
 pwd
-cp oaf/src/ ../../../kernel/net/oaf/ -af
+cp oaf/src/*.* ../../../kernel/net/oaf/
 rm oaf/ -rf
 ls -l
 cd ../../../kernel/net/oaf
