@@ -1,3 +1,27 @@
+## FwF-2020-04-16-437af0f
+
+#### Builder [22d0818..437af0f](https://github.com/huang-hw/nanopi-r2s-1/compare/22d0818..437af0f)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [437af0f](https://github.com/huang-hw/nanopi-r2s-1/commit/437af0f) | huang-hw | Update lean.yml |
+| [20e5f6f](https://github.com/huang-hw/nanopi-r2s-1/commit/20e5f6f) | huang-hw | Add OAF CONFIG_XXX_XXX |
+
+
+#### Lean [6c8c96c..a557064](https://github.com/coolsnowwolf/lede/compare/6c8c96c..a557064)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [a5570642](https://github.com/coolsnowwolf/lede/commit/a5570642) | Xiaok | frp: bump version to v0.32.1 and dos2unix for Makefile (#4338) |
+| [988acf9d](https://github.com/coolsnowwolf/lede/commit/988acf9d) | fw876@outlook.com | remove obsolete package |
+
+
+
+
+--------------
+
 ## FwF-2020-04-15-22d0818
 
 #### Builder [a37fad1..22d0818](https://github.com/huang-hw/nanopi-r2s-1/compare/a37fad1..22d0818)
