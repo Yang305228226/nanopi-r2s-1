@@ -1,3 +1,17 @@
+## FriendlyWRT-2020-04-16-437af0f
+
+#### Builder [20e5f6f..437af0f](https://github.com/huang-hw/nanopi-r2s-1/compare/20e5f6f..437af0f)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [437af0f](https://github.com/huang-hw/nanopi-r2s-1/commit/437af0f) | huang-hw | Update lean.yml |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-15-20e5f6f
 
 #### Builder [8c9403b..20e5f6f](https://github.com/huang-hw/nanopi-r2s-1/compare/8c9403b..20e5f6f)
