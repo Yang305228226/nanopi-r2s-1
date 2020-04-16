@@ -25,7 +25,7 @@ cd OpenAppFilter
 pwd
 cd ../..
 pwd
-ll
+ls -l 
 cd kernel/net/
 pwd
 mkdir oaf
