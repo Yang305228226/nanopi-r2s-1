@@ -23,17 +23,17 @@ git clone https://github.com/destan19/OpenAppFilter.git
 cd OpenAppFilter
 ../../../../set_repo_hash.sh OpenAppFilter
 pwd
-cd ../..
+cd ../../..
 pwd
 ls -l 
 cd kernel/net/
 pwd
 mkdir oaf
-cd ../../package/OpenAppFilter/
-cp oaf/src/ ../../kernel/net/oaf/ -af
+cd ../../friendlywrt/package/OpenAppFilter/
+cp oaf/src/ ../../../kernel/net/oaf/ -af
 rm oaf/ -rf
-sed -i 's/^obj-m/obj-y/' ../../kernel/net/oaf/Makefile
-cat ../../kernel/net/oaf/Makefile
+sed -i 's/^obj-m/obj-y/' ../../../kernel/net/oaf/Makefile
+cat ../../../kernel/net/oaf/Makefile
 cd ../..
 
 pwd
