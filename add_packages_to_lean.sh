@@ -9,12 +9,6 @@ cd luci-theme-argon
 cd ../..
 
 pwd
-git clone https://github.com/destan19/OpenAppFilter.git
-cd OpenAppFilter
-../../../../set_repo_hash.sh OpenAppFilter
-cd ..
-
-pwd
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git
 cd luci-app-adguardhome
 ../../../../set_repo_hash.sh AdguardHome
@@ -23,6 +17,16 @@ cd ..
 pwd
 git clone https://github.com/tty228/luci-app-serverchan.git
 ../../../set_repo_hash.sh ServerChan
+cd ..
+
+pwd
+git clone https://github.com/destan19/OpenAppFilter.git
+cd OpenAppFilter
+../../../../set_repo_hash.sh OpenAppFilter
+cp oaf/src/ ../../kernel/net/oaf/ -af
+rm oaf/ -rf
+sed -i 's/^obj-m/obj-y/' ../../kernel/net/oaf/Makefile
+cat ../../kernel/net/oaf/Makefile
 cd ..
 
 pwd
