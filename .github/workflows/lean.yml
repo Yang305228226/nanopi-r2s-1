@@ -6,8 +6,8 @@ on:
     branches: 
       - master
     paths:
-      - '.github/workflows/lean.yml'
-      - '*.sh'
+      #- '.github/workflows/lean.yml'
+      #- '*.sh'
   schedule:
     - cron: '0 21 * * *'
 

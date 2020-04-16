@@ -7,9 +7,9 @@ on:
     branches: 
       - master
     paths:
-      - '.github/workflows/friendlywrt.yml'
+      #- '.github/workflows/friendlywrt.yml'
       - 'minimal_config.seed'
-      - '*.sh'
+      #- '*.sh'
   schedule:
     - cron: '0 16 * * *'
 
@@ -32,6 +32,9 @@ jobs:
         env:
           DEBIAN_FRONTEND: noninteractive
         run: |
+          date
+          TZ='Asia/Shanghai'; export TZ
+          date
           . init_env.sh
       
       - name: Repo Hash

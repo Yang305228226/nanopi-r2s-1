@@ -17,7 +17,6 @@ cd ..
 pwd
 git clone https://github.com/tty228/luci-app-serverchan.git
 ../../../set_repo_hash.sh ServerChan
-cd ..
 
 pwd
 git clone https://github.com/destan19/OpenAppFilter.git
@@ -27,7 +26,7 @@ cp oaf/src/ ../../kernel/net/oaf/ -af
 rm oaf/ -rf
 sed -i 's/^obj-m/obj-y/' ../../kernel/net/oaf/Makefile
 cat ../../kernel/net/oaf/Makefile
-cd ..
+cd ../..
 
 pwd
 echo "src-git scw https://github.com/songchenwen/openwrt-package" >> feeds.conf.default
