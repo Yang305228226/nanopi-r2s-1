@@ -1,3 +1,19 @@
+## Lean-2020-04-16-437af0f
+
+#### Builder [8c9403b..437af0f](https://github.com/huang-hw/nanopi-r2s-1/compare/8c9403b..437af0f)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [437af0f](https://github.com/huang-hw/nanopi-r2s-1/commit/437af0f) | huang-hw | Update lean.yml |
+| [20e5f6f](https://github.com/huang-hw/nanopi-r2s-1/commit/20e5f6f) | huang-hw | Add OAF CONFIG_XXX_XXX |
+| [22d0818](https://github.com/huang-hw/nanopi-r2s-1/commit/22d0818) | huang-hw | Add OAF CONFIG_XXX_XXX |
+
+
+
+
+--------------
+
 ## Lean-2020-04-15-8c9403b
 
 #### Builder [f8b0fae..8c9403b](https://github.com/huang-hw/nanopi-r2s-1/compare/f8b0fae..8c9403b)
