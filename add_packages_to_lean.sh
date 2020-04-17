@@ -28,6 +28,8 @@ pwd
 mkdir oaf
 ls -l
 cd ../../friendlywrt/package/OpenAppFilter/
+sed -i 's/^+kmod-oaf/ /' luci-app-oaf/Makefile
+cat luci-app-oaf/Makefile
 pwd
 cp oaf/src/* ../../../kernel/net/oaf/
 rm oaf/ -rf
