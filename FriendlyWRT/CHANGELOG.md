@@ -1,3 +1,28 @@
+## FriendlyWRT-2020-04-17-d32c1a3
+
+#### Builder [437af0f..d32c1a3](https://github.com/huang-hw/nanopi-r2s-1/compare/437af0f..d32c1a3)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [d32c1a3](https://github.com/huang-hw/nanopi-r2s-1/commit/d32c1a3) | huang-hw | fix7 |
+| [c2ef559](https://github.com/huang-hw/nanopi-r2s-1/commit/c2ef559) | huang-hw | fix6 |
+| [7eb3e59](https://github.com/huang-hw/nanopi-r2s-1/commit/7eb3e59) | root | fix5 |
+| [11fb6a6](https://github.com/huang-hw/nanopi-r2s-1/commit/11fb6a6) | root | fix4 |
+| [f308925](https://github.com/huang-hw/nanopi-r2s-1/commit/f308925) | root | fix3 |
+| [57e01aa](https://github.com/huang-hw/nanopi-r2s-1/commit/57e01aa) | root | fix 2 |
+| [b8c6410](https://github.com/huang-hw/nanopi-r2s-1/commit/b8c6410) | root | fix . |
+| [b3682ca](https://github.com/huang-hw/nanopi-r2s-1/commit/b3682ca) | root | fix |
+| [3e51c91](https://github.com/huang-hw/nanopi-r2s-1/commit/3e51c91) | huang-hw | Update friendlywrt.yml |
+| [4dae40f](https://github.com/huang-hw/nanopi-r2s-1/commit/4dae40f) | root | fix |
+| [964719c](https://github.com/huang-hw/nanopi-r2s-1/commit/964719c) | root | try to fix oaf complie changed compile time |
+| [99e5000](https://github.com/huang-hw/nanopi-r2s-1/commit/99e5000) | huang-hw | compile oaf module in kernel |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-16-437af0f
 
 #### Builder [20e5f6f..437af0f](https://github.com/huang-hw/nanopi-r2s-1/compare/20e5f6f..437af0f)
