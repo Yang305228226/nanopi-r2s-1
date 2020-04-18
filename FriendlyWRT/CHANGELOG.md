@@ -1,3 +1,17 @@
+## FriendlyWRT-2020-04-18-77203f5
+
+#### Builder [7ed2ce8..77203f5](https://github.com/huang-hw/nanopi-r2s-1/compare/7ed2ce8..77203f5)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [77203f5](https://github.com/huang-hw/nanopi-r2s-1/commit/77203f5) | huang-hw | Update add_packages_to_lean.sh |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-17-7ed2ce8
 
 #### Builder [d32c1a3..7ed2ce8](https://github.com/huang-hw/nanopi-r2s-1/compare/d32c1a3..7ed2ce8)
