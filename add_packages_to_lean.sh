@@ -37,12 +37,15 @@ ls -l
 cd ../../../kernel/net/oaf
 pwd
 ls -l
-#sed -i 's/^obj-m/obj-y/' Makefile
-#cat Makefile
-sed -i '$aobj-m += oaf\/' ../Makefile
+sed -i 's/^obj-m/obj-y/' Makefile
+cat Makefile
+sed -i '$aobj-y += oaf\/' ../Makefile
+#sed -i '$aobj-m += oaf\/' ../Makefile
 cat ../Makefile
-sed -i 's/AF_INFO/pr_info/' app_filter.c
-sed -i 's/printk/pr_info/' app_filter.c
+sed -i 's/AF_INFO/pr_info/' *.*
+sed -i 's/printk/pr_info/' *.*
+#sed -i 's/AF_INFO/pr_info/' app_filter.c
+#sed -i 's/printk/pr_info/' app_filter.c
 cat app_filter.c
 cd ../../../friendlywrt
 
