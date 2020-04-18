@@ -39,6 +39,8 @@ pwd
 ls -l
 #sed -i 's/^obj-m/obj-y/' Makefile
 #cat Makefile
+sed -i '$aobj-m += oaf\/' ../Makefile
+cat ../Makefile
 sed -i 's/AF_INFO/pr_info/' app_filter.c
 sed -i 's/printk/pr_info/' app_filter.c
 cat app_filter.c
