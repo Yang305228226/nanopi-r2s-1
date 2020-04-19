@@ -43,11 +43,13 @@ sed -i '$aobj-y += oaf\/' ../Makefile
 #sed -i '$aobj-m += oaf\/' ../Makefile
 cat ../Makefile
 sed -i 's/int af_log_lvl = 1/int af_log_lvl = 4/' af_log.c
+sed -i 's/skip_spaces/skip_spaces_oaf/' af_utils.c
 sed -i 's/printk/pr_info/' *.c
 #sed -i 's/AF_INFO/pr_info/' app_filter.c
 #sed -i 's/printk/pr_info/' app_filter.c
 cat app_filter.c
 cat af_log.c
+cat af_utils.c
 cd ../../../friendlywrt
 
 pwd
