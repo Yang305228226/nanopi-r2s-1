@@ -1,3 +1,19 @@
+## FriendlyWRT-2020-04-19-e4b7c45
+
+#### Builder [77203f5..e4b7c45](https://github.com/huang-hw/nanopi-r2s-1/compare/77203f5..e4b7c45)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [e4b7c45](https://github.com/huang-hw/nanopi-r2s-1/commit/e4b7c45) | huang-hw | oaf build in kernel 3 |
+| [77e24aa](https://github.com/huang-hw/nanopi-r2s-1/commit/77e24aa) | huang-hw | oaf build in kernel fix |
+| [9225e79](https://github.com/huang-hw/nanopi-r2s-1/commit/9225e79) | huang-hw | OAF build in kernel |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-18-77203f5
 
 #### Builder [7ed2ce8..77203f5](https://github.com/huang-hw/nanopi-r2s-1/compare/7ed2ce8..77203f5)
