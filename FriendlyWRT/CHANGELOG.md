@@ -1,3 +1,17 @@
+## FriendlyWRT-2020-04-20-f2ae782
+
+#### Builder [e4b7c45..f2ae782](https://github.com/huang-hw/nanopi-r2s-1/compare/e4b7c45..f2ae782)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [f2ae782](https://github.com/huang-hw/nanopi-r2s-1/commit/f2ae782) | huang-hw | OAF modules & Owner branch |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-19-e4b7c45
 
 #### Builder [77203f5..e4b7c45](https://github.com/huang-hw/nanopi-r2s-1/compare/77203f5..e4b7c45)
