@@ -1,4 +1,7 @@
 #!/bin/bash
+date
+TZ='Asia/Shanghai'; export TZ
+date
 VARIANTNAME=$1
 StatusFile=$VARIANTNAME/status.env
 NewStatusFile=$VARIANTNAME/newstatus.env
