@@ -1,3 +1,17 @@
+## FriendlyWRT-2020-04-21-b6a64fb
+
+#### Builder [f2ae782..b6a64fb](https://github.com/huang-hw/nanopi-r2s-1/compare/f2ae782..b6a64fb)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [b6a64fb](https://github.com/huang-hw/nanopi-r2s-1/commit/b6a64fb) | huang-hw | Update changelog.sh |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-20-f2ae782
 
 #### Builder [e4b7c45..f2ae782](https://github.com/huang-hw/nanopi-r2s-1/compare/e4b7c45..f2ae782)
