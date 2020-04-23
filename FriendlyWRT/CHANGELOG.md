@@ -1,3 +1,17 @@
+## FriendlyWRT-2020-04-23-d2903bc
+
+#### Builder [cb43c09..d2903bc](https://github.com/huang-hw/nanopi-r2s-1/compare/cb43c09..d2903bc)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [d2903bc](https://github.com/huang-hw/nanopi-r2s-1/commit/d2903bc) | huang-hw | add libpcap |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-23-cb43c09
 
 #### Builder [b6a64fb..cb43c09](https://github.com/huang-hw/nanopi-r2s-1/compare/b6a64fb..cb43c09)
