@@ -1,3 +1,19 @@
+## FriendlyWRT-2020-04-23-cb43c09
+
+#### Builder [b6a64fb..cb43c09](https://github.com/huang-hw/nanopi-r2s-1/compare/b6a64fb..cb43c09)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [cb43c09](https://github.com/huang-hw/nanopi-r2s-1/commit/cb43c09) | huang-hw | tcpdump-full only |
+| [9e4af94](https://github.com/huang-hw/nanopi-r2s-1/commit/9e4af94) | huang-hw | tcpdump |
+| [4c321ab](https://github.com/huang-hw/nanopi-r2s-1/commit/4c321ab) | huang-hw | tcpdump |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-21-b6a64fb
 
 #### Builder [f2ae782..b6a64fb](https://github.com/huang-hw/nanopi-r2s-1/compare/f2ae782..b6a64fb)
