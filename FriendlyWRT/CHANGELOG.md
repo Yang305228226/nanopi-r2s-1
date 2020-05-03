@@ -1,3 +1,17 @@
+## FriendlyWRT-2020-05-04-d2903bc
+
+#### Argon [3e41f5b..358e293](https://github.com/jerrykuku/luci-theme-argon/compare/3e41f5b..358e293)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [621d5cf](https://github.com/jerrykuku/luci-theme-argon/commit/621d5cf) | R3pl4c3r | favicon: replaced by icon.png |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-04-29-d2903bc
 
 #### FriendlyWRT [6025df0..f6e2de1](https://github.com/friendlyarm/friendlywrt/compare/6025df0..f6e2de1)
