@@ -1,3 +1,17 @@
+## FriendlyWRT-2020-05-28-d2903bc
+
+#### FriendlyWRT [4132f4f..b2b9dc9](https://github.com/friendlyarm/friendlywrt/compare/4132f4f..b2b9dc9)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [b2b9dc9763](https://github.com/friendlyarm/friendlywrt/commit/b2b9dc9763) | Lawrence-Tang | lcd2usb_echo: display cpu temperature and ip on lcd1602 |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-05-15-d2903bc
 
 #### FriendlyWRT [f6e2de1..4132f4f](https://github.com/friendlyarm/friendlywrt/compare/f6e2de1..4132f4f)
