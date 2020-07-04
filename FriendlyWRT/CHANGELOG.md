@@ -1,3 +1,19 @@
+## FriendlyWRT-2020-07-05-d2903bc
+
+#### Argon [6bab4a8..d4b2541](https://github.com/jerrykuku/luci-theme-argon/compare/6bab4a8..d4b2541)
+
+
+| Commit | Author | Desc |
+| :----- | :------| :--- |
+| [d4b2541](https://github.com/jerrykuku/luci-theme-argon/commit/d4b2541) | jerrykuku | Update style.css |
+| [b9a2dde](https://github.com/jerrykuku/luci-theme-argon/commit/b9a2dde) | jerrykuku | update readme |
+| [86f9b0a](https://github.com/jerrykuku/luci-theme-argon/commit/86f9b0a) | jerrykuku | fix display bugs |
+
+
+
+
+--------------
+
 ## FriendlyWRT-2020-05-28-d2903bc
 
 #### FriendlyWRT [4132f4f..b2b9dc9](https://github.com/friendlyarm/friendlywrt/compare/4132f4f..b2b9dc9)
